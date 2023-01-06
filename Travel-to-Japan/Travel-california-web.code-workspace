@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/20.3/20.3 activities"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "20.3 activities"
+	}
+}
